@@ -1,5 +1,15 @@
+#IntelliJ
 .idea/
+
+#Gradle
 .gradle/
+gradle/
+gradlew
+*.gradle
+
+#Misc
+build.*
+*.bat
 *.iml
 .DS_Store
 /build
